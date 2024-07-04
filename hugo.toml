@@ -1,0 +1,55 @@
+baseURL = 'https://saakethsite.web.app/'
+languageCode = 'en-us'
+title = 'Saakeths Website'
+theme = 'digitalgarden'
+
+
+
+relativeURLs = true
+canonifyURLs = true
+
+
+[Params]
+  description = "My Portfolio"
+  images = ['/engineering.png']
+  enableSearch = true
+
+
+
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+    name = 'Projects'
+    url = '/projects'
+    weight = 3
+[[menu.social]]
+  name = 'Twitter'
+  url = 'https://x.com/SaakethManepal2'
+  weight = 1
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/SaakethManepalli'
+  weight = 2
+
+
+
+
+
+
+
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
