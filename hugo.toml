@@ -1,4 +1,4 @@
-baseURL = 'https://saakethsite.web.app/'
+baseURL = 'https://saaketh.me/'
 languageCode = 'en-us'
 title = 'Saakeths Website'
 theme = 'digitalgarden'
@@ -38,8 +38,10 @@ canonifyURLs = true
   name = 'GitHub'
   url = 'https://github.com/SaakethManepalli'
   weight = 2
-
-
+[[menu.social]]
+  name = 'Instagram'
+  url = 'https://www.instagram.com/saaketh.manepalli/'
+  weight = 3
 
 
 
