@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Saakeths Website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Homepage on Saakeths Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Hackathons</title>
+      <link>http://localhost:1313/projects/_hackathons/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/_hackathons/</guid>
+      <description>Hack TCNJ 2/24 Devpost I developed the entire stack of software, including the frontend, the backend, the AI integrations, the Cloudflare integration&#xA;numba one high-school / college freshman team in the nation&#xA;Bitcamp 4/24 Devpost Recieved an honorable mention and a linkeldn connection from the Bloomberg representive at the Hackathon&#xA;numba 2 dod parser :/</description>
+    </item>
+  </channel>
+</rss>
