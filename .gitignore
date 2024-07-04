@@ -10,3 +10,4 @@ firebase.json
 *.cache
 .firebaserc
 /themes
+/public
